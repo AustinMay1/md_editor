@@ -4,7 +4,7 @@
       "module": "commonjs",
       "lib": [ "ES2015", "dom"],
       "sourceMap": true,
-      "outDir": "./script",
+      "outDir": "./scripts",
       "strict": true,
       "strictNullChecks": true,
       "strictFunctionTypes": true,
